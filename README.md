@@ -1,8 +1,18 @@
-### Hey there 👋 Welcome to My GitHub Profile! 🐍
+<h1> **Welcome to My GitHub Profile!** 👋</h1>
 
-My name is Damian, I am passionate about **Data Science, Machine Learning, and Artificial Intelligence**. Here, you'll find my projects where I delve into various aspects of these fields.
+**About Me:**
+🌱 I'm passionate about Data Science, Machine Learning, and Artificial Intelligence.
+💻 Currently, I'm immersed in project where I'm developing a time series prediction model.
+🐍 Proficient in Python programming and familiar with SQL.
+🎓 Constantly learning and exploring new techniques in the realm of AI and ML.
+
 
 Python🐍 Machine Learning🤖 Data Science🥼 Computer Vision🖥️ Business Problems🚀
+
+
+
+
+
 
 
 **Let's Collaborate**
