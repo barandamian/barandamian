@@ -4,7 +4,7 @@
 <p><strong>About me</strong></p>
 <ul>
 <li>🌱 I'm passionate about Data Science, Machine Learning, and Artificial Intelligence.</li>
-<li>💻 Currently, I'm immersed in a project where I'm developing a time series prediction model.</li>
+<li>💻 Currently, I'm immersed in a project where I'm developing a time series forecasting model.</li>
 <li>🐍 Proficient in Python programming and familiar with SQL.</li>
 <li>🎓 Constantly learning and exploring new techniques in the realm of AI and ML.</li>
 </ul>
