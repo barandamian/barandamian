@@ -1,4 +1,4 @@
-<h1> **Welcome to My GitHub Profile!** 👋</h1>
+<h1> Welcome to My GitHub Profile! 👋</h1>
 
 **About Me:**
 🌱 I'm passionate about Data Science, Machine Learning, and Artificial Intelligence.
@@ -11,11 +11,7 @@ Python🐍 Machine Learning🤖 Data Science🥼 Computer Vision🖥️ Business
 
 
 
-
-
-
-
 **Let's Collaborate**
 If you're interested in collaborating on data science projects or have any ideas you'd like to discuss, don't hesitate to get in touch. I'm open to collaboration opportunities and always eager to learn and grow in this ever-evolving field.
 
-Thanks for stopping by, and happy coding! 🚀
+<h3>Thanks for stopping by, and happy coding!</h3> 🚀
