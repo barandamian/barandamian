@@ -11,7 +11,7 @@
 
 <ul>
 <p><strong>Check Out My Repositories and Contributions!</strong></p>
-<li>📂 Browse through my repositories to see my projects and contributions.</ul>li>
+<li>📂 Browse through my repositories to see my projects and contributions.</li>
 <li>⭐ Don't forget to star any repositories you find interesting!</li>
 </ul>
 
