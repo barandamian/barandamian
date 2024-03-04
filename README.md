@@ -10,6 +10,6 @@
 </ul>
 
 <p><strong>Let's Collaborate</strong></p>
-<p>If you're interested in collaborating on data science projects or have any ideas you'd like to discuss, don't hesitate to get in touch.I'm open to collaboration opportunities and always eager to learn and grow in this ever-evolving field.</p>
+<p>If you're interested in collaborating on data science projects or have any ideas you'd like to discuss, don't hesitate to get in touch. I'm open to collaboration opportunities and always eager to learn and grow in this ever-evolving field.</p>
 
 <p><strong>Thanks for stopping by, and happy coding!🚀</strong></p>
